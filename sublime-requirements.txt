@@ -1,0 +1,17 @@
+# Functional
+SideBarEnhancements  # increase side bar functionalities
+SublimeLinter  # error highlighting
+Anaconda  # for python IDE features
+Git
+Pretty JSON
+FileDiffs
+LaTeXTools
+PlainTasks
+Compare Side-By-Side
+
+# Non-functional
+Boxy Theme
+Material Theme
+A File Icon
+ayu Theme
+Materialize
