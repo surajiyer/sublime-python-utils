@@ -1,6 +1,12 @@
 # Ignore everything
 *
 
+# But descend into directories
+!*/
+
+# Recursively allow files under subtree
+!/Language*/**
+
 # Except these files
 !.gitignore
 !*.py
