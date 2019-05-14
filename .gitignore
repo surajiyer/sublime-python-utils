@@ -7,6 +7,7 @@
 # Recursively allow files under subtree
 !/Language*/**
 
-# Except these files
+# Allow these files
 !.gitignore
 !*.py
+!README.md
